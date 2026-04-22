@@ -1,0 +1,1 @@
+powershell -Command "Start-Process powershell -Verb RunAs -ArgumentList '-ExecutionPolicy Bypass -File ""%~dp0domainsystem_tool.ps1""'"
