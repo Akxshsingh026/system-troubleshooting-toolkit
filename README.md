@@ -1,35 +1,45 @@
-# 🛠️ System Troubleshooting Toolkit (PowerShell + Batch)
 
-## 📌 Overview
-This project is a **Windows IT Support Automation Toolkit** designed to simplify and speed up common troubleshooting tasks.
 
-It includes:
-- A PowerShell script for system-level fixes  
-- Batch files to run the script easily with administrator privileges  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=System+Troubleshooting+Toolkit;PowerShell+Automation+for+IT+Support;Windows+7+%7C+8+%7C+10+%7C+11+Compatible" />
+</p>
+
+<h1 align="center">🛠️ System Troubleshooting Toolkit</h1>
+
+<p align="center">
+  <b>Automate common Windows troubleshooting tasks with a single script</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Script-PowerShell-blue?logo=powershell" />
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-success" />
+  <img src="https://img.shields.io/badge/Made%20by-Akash%20Parmar-orange" />
+</p>
 
 ---
 
-## 📂 Project Files
-domainrun-tool.bat → Batch file to run script as administrator # ONLY FOR DOMAIN USERS
-domainsystem_tool.ps1 → Main PowerShell script
-run-toolsys.bat  → Batch file to run script as administrator # ONLY FOR WORKGROUP & NORMAL_USER
-system_toolkit.ps1  → Main PowerShell script
+## 📌 Overview
+The **System Troubleshooting Toolkit** is a lightweight automation script designed for IT Support Engineers and System Administrators to quickly resolve common Windows issues.
 
+It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
 ## 🚀 Features
 
-- 🧹 Cleans temporary files  
-- 🌐 Flushes DNS cache  
-- 🔄 Resets network (IP release/renew)  
-- 💽 Performs disk check  
-- 🛡️ Runs System File Checker (SFC)  
-- ⚡ Easy execution using batch launcher  
+- 🧹 Automatic Temp File Cleanup  
+- 🌐 DNS Cache Flush  
+- 🔄 Network Reset (IP Release/Renew)  
+- 💽 Disk Health Check  
+- 🛡️ System File Checker (SFC Scan)  
+- ⚡ One-click execution using batch launcher  
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ Installation & Usage
+
 
 ### 🔹 Method 1 (Recommended – Easy)
 1. Right-click on: domainsystem-tool.bat / run-toolsys.bat
@@ -47,20 +57,22 @@ system_toolkit.ps1  → Main PowerShell script
 ---
 ---
 
-## 🎯 Use Case
+🎯 Use Cases
 
-This toolkit is useful for:
-- IT Support Engineers  
-- Desktop Support Technicians  
-- System Administrators  
-
-Helps fix:
-- Slow system performance  
-- Network issues  
-- Corrupted system files  
+✔ Fix slow system performance
+✔ Resolve network connectivity issues
+✔ Repair corrupted system files
+✔ Automate repetitive IT support tasks
 
 ---
 
+🧠 Skills Demonstrated
+✔ PowerShell Automation
+✔ Windows System Administration
+✔ Troubleshooting & Diagnostics
+✔ Networking Basics
+
+---
 ## 💡 Advantages
 
 - Saves time in troubleshooting  
@@ -90,6 +102,14 @@ Helps fix:
 ## 👤 Author
 **AkashSingh Parmar**  
 IT Support Engineer | System Administrator  
+
+---
+⭐ Support
+
+If you found this project useful:
+
+⭐ Star this repository
+🔁 Share with others
 
 ---
 
