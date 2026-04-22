@@ -20,14 +20,14 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 The **System Troubleshooting Toolkit** is a lightweight automation script designed for IT Support Engineers and System Administrators to quickly resolve common Windows issues.
 
 It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🧹 Automatic Temp File Cleanup  
 - 🌐 DNS Cache Flush  
@@ -38,7 +38,7 @@ It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
-## ⚙️ Installation & Usage
+##   Installation & Usage
 
 
 ### 🔹 Method 1 (Recommended – Easy)
@@ -57,7 +57,7 @@ It reduces manual effort and speeds up troubleshooting using PowerShell.
 ---
 ---
 
-🎯 Use Cases
+##  Use Cases
 
 ✔ Fix slow system performance
 ✔ Resolve network connectivity issues
@@ -66,14 +66,14 @@ It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
-🧠 Skills Demonstrated
+## Skills Demonstrated
 ✔ PowerShell Automation
 ✔ Windows System Administration
 ✔ Troubleshooting & Diagnostics
 ✔ Networking Basics
 
 ---
-## 💡 Advantages
+##   Advantages
 
 - Saves time in troubleshooting  
 - Reduces manual repetitive work  
@@ -82,7 +82,7 @@ It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
-## ⚠️ Requirements
+##   Requirements
 
 - Windows OS  
 - Administrator privileges  
@@ -90,7 +90,7 @@ It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
-## 🔮 Future Improvements
+##   Future Improvements
 
 - Add menu-based interface  
 - Generate log reports  
@@ -99,12 +99,12 @@ It reduces manual effort and speeds up troubleshooting using PowerShell.
 
 ---
 
-## 👤 Author
+##   Author
 **AkashSingh Parmar**  
 IT Support Engineer | System Administrator  
 
 ---
-⭐ Support
+##   Support
 
 If you found this project useful:
 
